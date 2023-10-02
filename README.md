@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">Co-Founder and CTO at CyberTaur</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Panotaur](https://panotaur.com/)
+- 🔭 I’m currently working on [Valorant Strategy Planner](https://github.com/fearwarden/Real-Time-Collaboration-Tool)
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://cybertaur.com](https://cybertaur.com)
-
-- 📫 How to reach me **m.jovanovic@cybertaur.com**
+- 📫 How to reach me **milanj1705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milan-jovanović-835471209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-jovanović-835471209" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milan-jovanović-835471209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-jovanovic-835471209" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
