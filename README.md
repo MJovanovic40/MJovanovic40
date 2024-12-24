@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Valorant Strategy Planner](https://github.com/fearwarden/Real-Time-Collaboration-Tool)
+- 🔭 I’m currently working on [JAPI-CMS](https://github.com/MJovanovic40/japi-cms)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Apache Spark**
 
 - 📫 How to reach me **milanj1705@gmail.com**
 
